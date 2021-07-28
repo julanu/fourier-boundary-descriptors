@@ -123,7 +123,7 @@ def apply_fft_inverse(fshift):
 
 def main():
 
-    filename = "./imgs/frunza.jpg"
+    filename = ".\\imgs\\oak_leaf.jpg"
     
 
     img = cv2.imread(filename)

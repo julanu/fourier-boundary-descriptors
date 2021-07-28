@@ -23,4 +23,5 @@ $ pip3 install -r dependencies.txt
 $ python3 main.py
 ```
 
-## Examples
+# Example boundary description
+![Screenshot](.\imgs\output.png)
