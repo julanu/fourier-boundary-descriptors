@@ -2,6 +2,10 @@
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
+### TO DO ###
+- Update README
+- Clean-up code
+- Add test images
 ### What is this repository for? ###
 
 * Quick summary
