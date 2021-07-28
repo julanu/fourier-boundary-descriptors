@@ -24,4 +24,4 @@ $ python3 main.py
 ```
 
 # Example boundary description
-![Screenshot](.\imgs\output.png)
+![Screenshot](./imgs/output.png)
